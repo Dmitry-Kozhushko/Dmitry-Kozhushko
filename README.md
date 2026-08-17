@@ -2,7 +2,6 @@
 
 **Аналитик данных** · Москва, Россия  
 
----
 
 ## Обо мне
 
@@ -13,7 +12,6 @@
 
 [Telegram](https://t.me/dmitry_kozhushko) · [Email](mailto:dima1714@yandex.ru)
 
----
 
 ## Навыки и инструменты
 
@@ -25,7 +23,6 @@
 - **Git / GitHub**  
 - Базовые знания **A/B-тестирования**
 
----
 
 ## Образование
 
@@ -33,7 +30,6 @@
 Курс «Аналитик данных»  
 ноябрь 2025 — июнь 2026
 
----
 
 ## Проекты
 
@@ -43,19 +39,11 @@
 
 > Проекты в процессе оформления. Скоро появятся новые.
 
----
 
 ## Контакты
 
 - Telegram: [@dmitry_kozhushko](https://t.me/dmitry_kozhushko)  
 - Email: [dima1714@yandex.ru](mailto:dima1714@yandex.ru)
 
----
-
-## Статистика
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitry-Kozhushko&layout=compact)](https://github.com/Dmitry-Kozhushko)
-
----
 
 *«Превращаю данные в понятные выводы. Учусь каждый день.»*
