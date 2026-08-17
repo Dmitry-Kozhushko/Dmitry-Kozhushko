@@ -1,16 +1,34 @@
-## Hi there 👋
+Дмитрий Кожушко
+Аналитик данных · Москва, Россия
 
-<!--
-**Dmitry-Kozhushko/Dmitry-Kozhushko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Обо мне
+Я начинающий аналитик данных. В июне 2026 года закончил курс «Аналитик данных» в Яндекс.Практикуме.
+Сейчас углубляю знания в Python и SQL, работаю над учебными проектами.
 
-Here are some ideas to get you started:
+Моя цель — превращать сырые данные в понятные инсайты и помогать бизнесу принимать решения на основе фактов.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Telegram · Email
+
+Навыки и инструменты
+Python (Pandas, NumPy, Matplotlib) — базовый уровень
+SQL (PostgreSQL) — базовый уровень
+Yandex DataLens — создание дашбордов
+Jupyter Notebook — анализ и исследование данных
+Excel / Google Sheets
+Git / GitHub
+Базовые знания A/B-тестирования
+Образование
+Яндекс.Практикум
+Курс «Аналитик данных»
+ноябрь 2025 — июнь 2026
+
+Проекты
+[Название проекта 1] — краткое описание (ссылка)
+[Название проекта 2] — краткое описание (ссылка)
+[Название проекта 3] — краткое описание (ссылка)
+Проекты в процессе оформления. Скоро появятся новые.
+
+Контакты
+Telegram: @dmitry_kozhushko
+Email: dima1714@yandex.ru
+«Превращаю данные в понятные выводы. Учусь каждый день.»
