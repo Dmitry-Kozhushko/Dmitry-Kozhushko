@@ -46,5 +46,3 @@
 - Telegram: [@dmitry_kozhushko](https://t.me/dmitry_kozhushko)  
 - Email: [dima1714@yandex.ru](mailto:dima1714@yandex.ru)
 
-
-*«Превращаю данные в понятные выводы. Учусь каждый день.»*
