@@ -37,6 +37,7 @@
 - **[Расчет метрик в SQL](https://github.com/Dmitry-Kozhushko/Practicum_projects/blob/main/расчет%20метрик%20в%20SQL)**
 - **[Проверка гипотезы в Python и составление аналитической записки](https://github.com/Dmitry-Kozhushko/Practicum_projects/blob/main/Проверка%20гипотезы%20в%20Python%20и%20составление%20аналитической%20записки.ipynb)**
 - **[Анализ результатов A/B-тестирования](https://github.com/Dmitry-Kozhushko/Practicum_projects/blob/main/Анализ%20результатов%20AB-тестирования.ipynb)**
+- **[Анализ миграции лебедей в Северной Америке](https://github.com/Dmitry-Kozhushko/migration_of_swans_in_North_America/blob/main/migration_of_swans_in_North_America.ipynb?short_path=55914d6)**
 
 > Проекты в процессе оформления. Скоро появятся новые.
 
