@@ -2,11 +2,6 @@
 
 **Аналитик данных** · Москва, Россия  
 
-
-## Обо мне
-
-Моя цель — превращать сырые данные в понятные инсайты и помогать бизнесу принимать решения на основе фактов.
-
 [Telegram](https://t.me/dmitry_kozhushko) · [Email](mailto:dima1714@yandex.ru)
 
 
@@ -27,7 +22,8 @@
 - **[Проверка гипотезы в Python и составление аналитической записки](https://github.com/Dmitry-Kozhushko/Practicum_projects/blob/main/Проверка%20гипотезы%20в%20Python%20и%20составление%20аналитической%20записки.ipynb)**
 - **[Анализ результатов A/B-тестирования](https://github.com/Dmitry-Kozhushko/Practicum_projects/blob/main/Анализ%20результатов%20AB-тестирования.ipynb)**
 - **[Анализ миграции лебедей в Северной Америке](https://github.com/Dmitry-Kozhushko/migration_of_swans_in_North_America/blob/main/README.md)**
--  **[Анализ ассортимента методом ABC/XYZ](https://github.com/Dmitry-Kozhushko/assortment-analysis-using-the-ABC-XYZ-method)**
+- **[Анализ ассортимента методом ABC/XYZ](https://github.com/Dmitry-Kozhushko/assortment-analysis-using-the-ABC-XYZ-method)**
+- **[Рейтинг горнолыжных курортов России](https://github.com/Dmitry-Kozhushko/Rating-of-ski-resorts-in-Russia)**
 
 > Проекты в процессе оформления. Скоро появятся новые.
 
