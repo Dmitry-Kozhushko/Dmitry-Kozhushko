@@ -1,11 +1,11 @@
-# Дмитрий Кожушко
+## Дмитрий Кожушко
 
 **Аналитик данных** · Москва, Россия  
 
 [Telegram](https://t.me/dmitry_kozhushko) · [Email](mailto:dima1714@yandex.ru)
 
 
-## Навыки и инструменты
+### Навыки и инструменты
 
 - **Python** (Pandas, NumPy, Matplotlib) — базовый уровень  
 - **SQL** (PostgreSQL) — базовый уровень  
@@ -15,7 +15,7 @@
 - **Git / GitHub**  
 - Базовые знания **A/B-тестирования**
 
-## Проекты
+### Проекты
 
 - **[Рынок стартапов](https://github.com/Dmitry-Kozhushko/Practicum_projects/blob/main/Проект%20рынок%20стартапов.ipynb)** 
 - **[Расчет метрик в SQL](https://github.com/Dmitry-Kozhushko/Practicum_projects/blob/main/расчет%20метрик%20в%20SQL)**
