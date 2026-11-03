@@ -25,11 +25,6 @@
 - **[Анализ ассортимента методом ABC/XYZ](https://github.com/Dmitry-Kozhushko/assortment-analysis-using-the-ABC-XYZ-method)**
 - **[Рейтинг горнолыжных курортов России](https://github.com/Dmitry-Kozhushko/Rating-of-ski-resorts-in-Russia)**
 
-> Проекты в процессе оформления. Скоро появятся новые.
+> Скоро появятся новые...
 
-
-## Контакты
-
-- Telegram: [@dmitry_kozhushko](https://t.me/dmitry_kozhushko)  
-- Email: [dima1714@yandex.ru](mailto:dima1714@yandex.ru)
 
